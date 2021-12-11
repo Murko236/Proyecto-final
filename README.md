@@ -2,7 +2,10 @@
 
 Este repositorio esta hecho para pasar la materia de Introducción de I.C.
 
+Integrantes:
+
  RODRIGUEZ ALAN
- Garces Jesus 
- Valdez Sebastián
+ GARCES JESUS
+ VALDEZ SEBASTIÁN
+ 
  

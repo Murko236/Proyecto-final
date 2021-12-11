@@ -1,5 +1,17 @@
-//Este es el archivo encabezado para que el programa principal detecte las funciones
+#include <stdio.h>
+#include <math.h>
 
-int multiplicarDosNumeros(int num1, int num2);
+//Código de qué hará cada función
 
-int exponencialDeUnNumero(int num, int exp);
+int multiplicarDosNumeros(int num1, int num2) {
+	int resultado = num1 * num2;
+	return resultado;
+}
+
+int exponencialDeUnNumero(int num, int exp) {
+	int resultado = 1;
+	for (int i = exp; i != 0; i--) {
+		resultado *= num;
+	}
+	return resultado;
+}
